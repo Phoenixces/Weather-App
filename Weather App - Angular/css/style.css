@@ -1,0 +1,22 @@
+.main{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(to right, rgba(142, 199, 142, 0.3), rgba(176, 142, 193, 0.9)), url(https://images.pexels.com/photos/1253748/pexels-photo-1253748.jpeg?auto=compress&cs=tinysrgb&w=400);
+    background-size: cover;
+    color: black;
+}
+
+body{
+    background: linear-gradient(to right, rgba(141, 182, 171, 0.2), rgba(176, 142, 193, 0.9)), url(https://images.pexels.com/photos/1253748/pexels-photo-1253748.jpeg?auto=compress&cs=tinysrgb&w=400);
+    background-size: cover;
+}
+
+input[type="text"] {
+    width: 310px; /* Set the desired width */
+    height: 50px; /* Set the desired height */
+    font-size: 24px; /* Set the desired font size */
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px ;
+    background-color: rgb(244, 228, 244);
+   
+  }
